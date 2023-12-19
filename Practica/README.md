@@ -36,7 +36,7 @@ De primeras empece creando las funciones de añadir, borrar, y sortear y luego c
 
   -En la funcion de sorteo lo que hago es crear una constante llamada ganador a la cual le dire que es igual a un nombre aleatorio de la lista que cree con anterioridad, despues lo que hago es decirle que enseñe este resultado en el "div" de ganador.
 
-  -Por ultimo en el "js" añadimos if y un else para que nos guarde la info y no se borre cuando refresquemos la pagina, ademas he añadido una funcion para que al pulsar una tecla acceda a la funcion de añadir y tambien que al darle a añadir el texto que tenemos en la barra de texto se borre para que no tengamos que estar borrando constantemente el texto nosotros
+  -Por ultimo en el "js" añadimos if y un else para que nos guarde la info y no se borre cuando refresquemos la pagina, ademas he añadido una funcion para que al pulsar una tecla acceda a la funcion de añadir y tambien que al darle a añadir el texto que tenemos en la barra de texto se borre para que no tengamos que estar borrando constantemente el texto nosotros.
 
 
 
