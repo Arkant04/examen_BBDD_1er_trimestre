@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+  
+   button{
+    width: 50%;
+    margin: 0.5em;
+    padding: 1em;    
+  }
+  
+    input{
+    width: 47%;
+    margin: 0.5em;
+    padding: 1em;    
+    background-size: cover;
+  }
+  
+  
+  
+  :root{
+    font-family: system-ui;
+    font-size: 16px;
+  }
+
+  body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 100vh;
+    min-height : 100vh;
+  }
+
+  #contenedor{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 50vw;
+  }
+  
+  .left{
+    position: absolute;
+    top: 0;
+    left: 0;
+  }

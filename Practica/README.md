@@ -15,7 +15,10 @@ En esta imagen vemos de primeras creo dos div diferentes a los que les metere di
  -Tercero Le pondre a estos dos div id´s diferentes para poder acceder a ellos independientemente en css
 
 
- En segundo lugar, añadimos el "css" 
+ En segundo lugar, añadimos el "css":
+ ![Alt text](<Captura de pantalla 2023-12-19 a las 13.39.35.png>)
+
+ 
 
 
  
