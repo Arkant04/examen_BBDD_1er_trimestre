@@ -23,6 +23,7 @@ function añadir(){
 function borrar(){
   lista = []
   document.querySelector("#resultado").innerHTML = ""
+  document.querySelector("#Ganadores").innerHTML = ""
   localStorage.removeItem(`lista`)
   console.log("borrar")
 }
@@ -33,6 +34,7 @@ function random(array){
 
 function sortear(){
   const ganador = random(lista)
+  
   const elemento = document.createElement("p")
   elemento.innerHTML = ganador
   document.querySelector("#Ganadores").appendChild(elemento)
