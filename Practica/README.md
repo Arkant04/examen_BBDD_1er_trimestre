@@ -20,13 +20,13 @@ En esta imagen vemos de primeras creo dos div diferentes a los que les metere di
 
 
 En segundo lugar, añadimos el codigo de "css":
- ![Alt text](<Captura de pantalla 2023-12-19 a las 13.39.35.png>)
+ ![Alt text](<imagenes/Captura de pantalla 2023-12-19 a las 13.39.35.png>)
 
 De primeras empezare reiniciando el margin y el bottom, despues de hacer esto empezare definiendo el espacio que en el que estara cada cosa llamando a los contenedores y luego a los botones, inputs, etc. que pondre en lugares especificos en los que querre que esten.
 
 
 En Tercer lugar, añadimos el codigo de "js":
-![Alt text](<Captura de pantalla 2023-12-19 a las 14.13.21.png>)
+![Alt text](<imagenes/Captura de pantalla 2023-12-19 a las 14.13.21.png>)
 
 
 
