@@ -14,5 +14,8 @@ En esta imagen vemos de primeras creo dos div diferentes a los que les metere di
  -Segundo creo un segundo div al cual le intertare un "h1" escribiendo en el "Participantes", despues a este div le añadire otro div donde más adelante a traves de "js" insertare dentro de este el nombre de los participantes.
  -Tercero Le pondre a estos dos div id´s diferentes para poder acceder a ellos independientemente en css
 
-   
+
+ En segundo lugar, añadimos el "css" 
+
+
  
