@@ -3,10 +3,22 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="scrip"></script>
+    <script src="scrip.js"></script>
+    <link rel="stylesheet" href="style.css">
     <title>Document</title>
 </head>
 <body>
-    
+    <div id ="contenedor">
+        <input type="text" id= "idNombre" placeHolder = "Nombre" onkeyDown = "CapturarTecla(event)">
+        <button onclick= "añadir()">Añadir</button><button onclick= "borrar()">Borrar</button><button onclick= "sortear()">Sortea</button>
+        </div>
+        <div id="ganador">
+          
+        </div>
+        
+        <div class="left">
+        <h1>Participantes</h1>
+          <div id= "resultado"></div>
+        </div>
 </body>
 </html>

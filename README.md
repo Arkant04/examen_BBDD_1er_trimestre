@@ -6,3 +6,5 @@ Nombre: Alejandro De La Corte Grosso
 
 Fecha: 19/02/2023
 
+De primeras empiezo añadiendo el html, css y js, cuando añadi esto empece añadiento las referencias a estos:
+![Alt text](<Captura de pantalla 2023-12-19 a las 13.01.28.png>)
